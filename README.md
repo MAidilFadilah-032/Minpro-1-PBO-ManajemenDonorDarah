@@ -2,8 +2,9 @@ Nama: Muhammad Aidil Fadilah
 Nim: 2509116032 
 Kelas: Sistem Informasi (A) 2025
 
-# Sistem Manajemen Donasi Darah
-
+# Sistem Manajemen Donasi Darah<br>
+Sistem Manajemen Donasi Darah adalah program CRUD (Create, Read, Update, Delete) berbasis Java yang dibuat untuk memenuhi tugas mini project mata kuliah Pemrograman Berorientasi Objek (PBO). Program ini mensimulasikan pengelolaan data pendonor darah beserta riwayat donasinya melalui antarmuka command-line (CLI) yang interaktif.
+<br>
 ## Tampilan Awal Menu
 <img width="496" height="225" alt="image" src="https://github.com/user-attachments/assets/a5f0f888-7c6e-40ec-8de4-929e17271c60" /><br>
 Menu Utama, Tampilan awal saat program dijalankan. Pengguna memilih salah satu dari 4 menu (Kelola Data Donor, Kelola Data Donasi, Lihat Ringkasan, atau Keluar) dengan mengetikkan angka sesuai pilihan.
